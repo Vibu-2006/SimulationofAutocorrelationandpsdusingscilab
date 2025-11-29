@@ -78,7 +78,7 @@ plot(fw2);
 
 # OUTPUT:
 
-<img width="1920" height="1200" alt="Screenshot 2025-11-11 214013" src="https://github.com/user-attachments/assets/ca2b8c92-d7ad-4fcf-a92d-9b5d374e3bfc" />
+<img width="1788" height="992" alt="image" src="https://github.com/user-attachments/assets/355f1e2e-9854-4d21-afeb-9a98ec632bd6" />
 
 
 
