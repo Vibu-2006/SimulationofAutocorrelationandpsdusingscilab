@@ -45,7 +45,7 @@ clear all;
 
 t=0:0.01:2*3.14;
 
-x=sin(10.5*t)+cos(10.5*t);
+x=sin(6*t)+cos(9*t);
 
 subplot(3,2,1);
 
